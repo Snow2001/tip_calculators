@@ -4,6 +4,7 @@ Flutterda sonni foizni hisoblovchi dastur
 
 ## Dastur kod qismi
 
+![image](https://user-images.githubusercontent.com/99138346/212011314-45368601-9b03-4146-bd14-4acded4b9abe.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
