@@ -1,6 +1,6 @@
 # tip_calculator
 
-A new Flutter project.
+Flutterda sonni foizi=ni hisoblovchi dastur
 
 ## Getting Started
 
