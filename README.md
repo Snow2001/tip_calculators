@@ -1,6 +1,6 @@
 # tip_calculator
 
-Flutterda sonni foizi=ni hisoblovchi dastur
+Flutterda sonni foizni hisoblovchi dastur
 
 ## Getting Started
 
