@@ -2,7 +2,7 @@
 
 Flutterda sonni foizni hisoblovchi dastur
 
-## Getting Started
+## Dastur kod qismi
 
 This project is a starting point for a Flutter application.
 
